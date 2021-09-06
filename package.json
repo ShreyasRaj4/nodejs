@@ -1,0 +1,19 @@
+{
+  "name": "shreyas",
+  "version": "1.0.0",
+  "description": "Nothing much",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shreyasraj",
+  "license": "ISC",
+  "keywords": [
+    "shreyasraj"
+  ],
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21"
+  }
+}
